@@ -12,5 +12,5 @@ Completed:
 * [] Optional: Remembering the bill amount across app restarts (if <10mins)
 * [] Optional: Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
-![demo.gif]
+![Video Walkthrough](demo.gif)
 
