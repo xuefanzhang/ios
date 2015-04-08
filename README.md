@@ -15,6 +15,6 @@ Completed:
 
 ![Video Walkthrough](demo.gif)
 
-LICECAP did not work for me so I captured .mov with QuickTime and converted to gif... Here is a screenshot image to show what the app looks like:
+LICECAP did not work for me (http://forum.cockos.com/showthread.php?t=133640) so I captured a .mov with QuickTime and converted to gif... Here is a screenshot image to show what the app really looks like:
 
 ![Image](image.png)
