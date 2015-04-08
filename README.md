@@ -14,3 +14,6 @@ Completed:
 
 ![Video Walkthrough](demo.gif)
 
+LICECAP did not work for me so I captured .mov with QuickTime and converted to gif... Here is a screenshot image to show what the app looks like:
+
+![Image](image.png)
