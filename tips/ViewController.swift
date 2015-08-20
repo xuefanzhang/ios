@@ -18,10 +18,15 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var tipController: UISegmentedControl!
     
+    @IBOutlet weak var oneSplitLabel: UILabel!
+    
+    @IBOutlet weak var twoSplitLabel: UILabel!
+    
+    @IBOutlet weak var threeSplitLabel: UILabel!
+    
     override func viewDidLoad() {
         
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
         
         tipController.layer.cornerRadius = 0.0
         
@@ -73,6 +78,10 @@ class ViewController: UIViewController {
         }
         
         totalLabel.text = String(format:"$%.2f", total)
+        
+        oneSplitLabel.text = String(format:"%.2f", total)
+        twoSplitLabel.text = String(format:"%.2f", total/2)
+        threeSplitLabel.text = String(format:"%.2f", total/3)
     }
     
     @IBAction func onTap(sender: AnyObject) {
