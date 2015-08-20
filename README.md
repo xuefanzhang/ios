@@ -15,9 +15,11 @@ Completed:
 * [X] Optional: Total splitter by party size.
 
 August 20 Update
+
 ![Video Walkthrough](final_demo.gif)
 
 ----------------- Back in April ---------------------------
+
 ![Video Walkthrough](first_iter_demo.gif)
 
 LICECAP did not work for me (http://forum.cockos.com/showthread.php?t=133640) so I captured a .mov with QuickTime and converted to gif... Here is a screenshot image to show what the app really looks like:
